@@ -1,5 +1,5 @@
 {
-  "name": "sass-resolve",
+  "name": "@gautamarora/sass-resolve",
   "version": "2.0.1",
   "description": "Resolves all sass files in current project and all dependencies to create on sourcemapped css file fromt them.",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "asyncreduce": "~0.1.4",
     "convert-source-map": "~0.3.1",
     "xtend": "~2.1.1",
-    "node-sass": "~0.8.3"
+    "node-sass": "~3.4.2"
   },
   "devDependencies": {
     "tap": "~0.4.3"
